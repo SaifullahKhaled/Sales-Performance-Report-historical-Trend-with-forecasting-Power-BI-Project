@@ -1,8 +1,14 @@
-Power BI Sales Performance Report
-Overview
-This Power BI report provides a comprehensive view of sales performance across various dimensions. It includes individual salesperson metrics, team breakdowns, category performance, and geographical sales distribution.
-Main Components
+📊 Overview
+This Power BI report provides a comprehensive view of sales performance across various dimensions, including individual salesperson metrics, team breakdowns, category performance, and geographical sales distribution.
 
+🌟 Features
+Individual salesperson performance metrics
+Team-based filtering
+Product category analysis
+Geographical sales distribution
+Interactive charts and tables
+
+📋 Main Components
 Sales Performance Table
 
 Displays individual salesperson data
@@ -28,22 +34,25 @@ Regions included: Canada, New Zealand, India, Australia, UK, USA
 
 
 
-Key Insights
+🔍 Key Insights
 
 Top performing salesperson: Barr Faughny with $771,106 in total sales
 Highest sales per box: Van Tuxwell at $19 per box
 Leading product category: Bars
 Top geographical market: Canada
 
-Usage Instructions
+🚀 Usage
 
+Open the Power BI report file
 Use the team selection checkboxes to filter data by specific teams
 Click on columns in the Sales Performance Table to sort by different metrics
 Hover over charts for detailed tooltips
 
-Data Refresh
+🔄 Data Refresh
 This report is based on the latest available sales data. Ensure regular data refreshes for up-to-date insights.
-Additional Notes
 
-The report is designed for internal use and contains sensitive sales information
-For any questions or data discrepancies, please contact the Business Intelligence team
+📌 Additional Notes
+The report is designed for practice. 
+
+👥 Authors
+Khaled Saifullah
