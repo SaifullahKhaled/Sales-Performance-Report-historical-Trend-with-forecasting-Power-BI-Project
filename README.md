@@ -1,5 +1,6 @@
 📊 Overview
 This Power BI report provides a comprehensive view of sales performance across various dimensions, including individual salesperson metrics, team breakdowns, category performance, geographical sales distribution, and historical trends with forecasts.
+
 🌟 Features
 
 Individual salesperson performance metrics
